@@ -1,0 +1,79 @@
+╔══════════════════════════════════════════════════════════════════╗
+║           C³ CONSULTORÍA - INSTRUCCIONES DE DESPLIEGUE          ║
+║                        GITHUB PAGES                              ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📦 CONTENIDO DE ESTA CARPETA:
+  ✅ index.html - Landing page (página principal)
+  ✅ 3 Cuestionarios HTML
+  ✅ 3 Documentos legales HTML
+  ✅ README.md completo
+  ✅ Archivos de configuración
+  ✅ Guías de despliegue
+
+═══════════════════════════════════════════════════════════════════
+
+🚀 DESPLIEGUE RÁPIDO (5 MINUTOS):
+
+1️⃣  Ir a: https://github.com/new
+    - Nombre: c3-consultoria
+    - Público
+    - NO marcar ninguna opción
+    - Crear repositorio
+
+2️⃣  Subir archivos:
+    - Clic en "uploading an existing file"
+    - Arrastrar TODOS los archivos de esta carpeta
+    - Commit: "Initial commit"
+
+3️⃣  Activar GitHub Pages:
+    - Settings → Pages
+    - Branch: main / root
+    - Save
+
+4️⃣  Esperar 2-3 minutos y visitar:
+    https://TU-USUARIO.github.io/c3-consultoria/
+
+═══════════════════════════════════════════════════════════════════
+
+🔧 CONFIGURACIÓN POST-DESPLIEGUE:
+
+⚠️  OBLIGATORIO - Configurar Web3Forms:
+    1. Ir a: https://web3forms.com
+    2. Email: camino.chus@gmail.com
+    3. Copiar Access Key
+    4. Editar en GitHub estos 4 archivos:
+       - index.html
+       - Cuestionario_Autonomos_sin_trabajadores.html
+       - Cuestionario_Autonomos_con_trabajadores.html
+       - Cuestionario_basic_PYME.html
+    5. Buscar: TU_WEB3FORMS_ACCESS_KEY_AQUI
+    6. Reemplazar con tu Access Key
+    7. Commit: "Configure Web3Forms"
+
+═══════════════════════════════════════════════════════════════════
+
+📖 DOCUMENTACIÓN COMPLETA:
+
+  📄 README.md          - Documentación del proyecto
+  📄 DEPLOY_GUIDE.md    - Guía paso a paso de despliegue
+  📄 CHECKLIST.md       - Checklist de validación
+
+═══════════════════════════════════════════════════════════════════
+
+✅ VERIFICACIÓN:
+
+  □ Sitio accesible en la URL
+  □ Landing page carga
+  □ Cuestionarios abren
+  □ Formulario de contacto funciona
+  □ Web3Forms configurado
+  □ Sin errores en consola (F12)
+
+═══════════════════════════════════════════════════════════════════
+
+🎉 ¡Tu sitio estará en vivo en minutos!
+
+URL: https://TU-USUARIO.github.io/c3-consultoria/
+
+═══════════════════════════════════════════════════════════════════
